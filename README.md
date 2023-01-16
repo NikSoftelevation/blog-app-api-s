@@ -14,17 +14,13 @@
 ![download](https://user-images.githubusercontent.com/122023966/212693192-50ac8d11-298a-44f8-a163-04a6761638ce.png)
 
 
-![download](https://user-images.githubusercontent.com/122023966/212693369-d15a2a95-d455-42da-9db5-c889c86147a2.png)        ![images](https://user- 
-images.githubusercontent.com/122023966/212693285-3eab2863-c9b6-4e28-a0b2-342d6d202ef8.png)
+![download](https://user-images.githubusercontent.com/122023966/212693369-d15a2a95-d455-42da-9db5-c889c86147a2.png)       ![images](https://user- images.githubusercontent.com/122023966/212693285-3eab2863-c9b6-4e28-a0b2-342d6d202ef8.png)
 
 
-![download](https://user-images.githubusercontent.com/122023966/212693465-68a6f218-f731-4141-b7b8-26fd5d4c259e.png)         ![download](https://user-
-images.githubusercontent.com/122023966/212693590-16d76703-69d2-45c6-aac2-41dd98b8a2b3.png)
+![download](https://user-images.githubusercontent.com/122023966/212693465-68a6f218-f731-4141-b7b8-26fd5d4c259e.png)         ![download](https://user-images.githubusercontent.com/122023966/212693590-16d76703-69d2-45c6-aac2-41dd98b8a2b3.png)
 
 
-![images](https://user-images.githubusercontent.com/122023966/212693764-003d3f57-f924-41af-a2b0-ca66f61bf45e.png)          ![download](https://user-
-images.githubusercontent.com/122023966/212693844-bf2a1954-6d41-4827-97dc-9cf90b292f80.png)
-
+![images](https://user-images.githubusercontent.com/122023966/212693764-003d3f57-f924-41af-a2b0-ca66f61bf45e.png)          ![download](https://user-images.githubusercontent.com/122023966/212693844-bf2a1954-6d41-4827-97dc-9cf90b292f80.png)
 
 
 https://github.com/NikSoftelevation/blog-app-api-s
