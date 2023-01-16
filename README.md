@@ -15,15 +15,5 @@ https://github.com/NikSoftelevation
 
 
 
-
-
-
-
-  __                 _             _  __ ___    __  
-
- )_)  ) _   _      /_) _   _     /_) )_) )  | (_ ` 
-/__) ( (_) (_(    / / )_) )_)   / / /  _(_   .__)  
-             _)      (   (                         
-
-
+![download](https://user-images.githubusercontent.com/122023966/212692345-32d62682-c56a-4820-b87c-e916197b64c9.png)
 
