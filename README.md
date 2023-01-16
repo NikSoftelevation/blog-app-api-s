@@ -27,8 +27,6 @@
 
 
 
-![download](https://user-images.githubusercontent.com/122023966/212693844-bf2a1954-6d41-4827-97dc-9cf90b292f80.png
+https://github.com/NikSoftelevation
 
-![download](https://user-images.githubusercontent.com/122023966/212693844-bf2a1954-6d41-4827-97dc-9cf90b292f80.png
-   
- 
+https://github.com/NikSoftelevation/blog-app-api-s
